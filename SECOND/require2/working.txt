@@ -1,0 +1,42 @@
+(function(exports,require,module,_filename,_dirname){
+    var greet=function(){
+        console.log('Hello');
+    }
+    module.exports=greet;
+});
+
+
+fn(module.exports,require,module,filename,_dirname)
+
+return module.exports;
+
+
+
+JS Object Literals
+============================
+JSON
+
+{
+    "firstname":"Pankaj",
+    "lastname":"Singh",
+    "address":{
+        "Floor":"3rd",
+        "Plot":"218",
+        "Sector":"15",
+        "City":"Vasundhara"
+    }
+}
+
+XML
+==============================
+
+<person>
+    <firstname>pankaj<firstname>
+    <lastname>singh</lastname>
+    <address>
+        <floor>3rd</floor>
+        <plot>218</plot>
+        <sector>15</sector>
+        <city>vasundhara</city>
+    </address>
+</person>

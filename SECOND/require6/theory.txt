@@ -1,0 +1,17 @@
+
+
+(function(exports,require,module,__filename,__dirname){
+
+    var greet=function(){
+        console.log('hello');
+    }
+    module.exports = greet
+
+});
+
+
+//Call
+fn(module.exports,require,module,filename,dirname)
+
+//Return
+return module.exports;

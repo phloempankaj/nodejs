@@ -1,0 +1,11 @@
+Node Modules and NPM
+--------------------------------------------
+-> npm install
+-> npm search
+-> node_modules folder
+-> Our Own Node module
+-> Node Fundamentals (JavaScript)
+    Functions
+    Arrays
+    Object
+-> require

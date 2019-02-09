@@ -1,0 +1,14 @@
+Object Creation in JS
+----------------------------------------
+1. Object Literal
+2. Using Constructor Pattern
+3. Object.Create() Method
+4. Using class in ES6
+
+
+Property in Object
+----------------------------------------
+Value
+Writable
+enumerable
+configurable
