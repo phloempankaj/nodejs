@@ -1,0 +1,12 @@
+{
+  "name": "binding",
+  "version": "1.0.0",
+  "description": "data binding",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "pankaj singh",
+  "license": "ISC"
+}

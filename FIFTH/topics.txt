@@ -1,0 +1,8 @@
+Node Web Server
+================================
+
+1. Creating a Web Server
+2. templates
+3. binding
+3. routes
+5. static data
