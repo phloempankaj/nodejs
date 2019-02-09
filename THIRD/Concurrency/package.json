@@ -1,0 +1,11 @@
+{
+  "name": "concurrnecy",
+  "version": "1.0.0",
+  "description": "Concurrency",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pankaj",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "event_emitter_nodemodule",
+  "version": "1.0.0",
+  "description": "Event Emitter Via Node Module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pankaj",
+  "license": "ISC"
+}

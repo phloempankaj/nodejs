@@ -1,0 +1,6 @@
+Node Programming Model
+---------------------------------------
+-> Event Loop (REPL)
+-> Concurrency
+-> Asynchronous Programming/Callback Functions
+-> event Emiiters
